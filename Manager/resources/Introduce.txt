@@ -1,0 +1,12 @@
+Usage: GitManager.exe [options]
+
+Options:
+  help               Show this message and exit.
+  init                Initialize a new Git repository.
+  status                Show the status of the current Git repository.
+  commit                Commit the changes in the current Git repository.
+  push                  Push the changes to the remote Git repository.
+  pull                  Pull the changes from the remote Git repository.
+  branch                 Create a new Git branch.
+  checkout                Checkout a Git branch.
+  merge                  Merge a Git branch.
